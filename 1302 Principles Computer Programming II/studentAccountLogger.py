@@ -193,3 +193,5 @@ txt.grid(row=5, column=0, columnspan=3)
 
 # Start the main application loop
 app.mainloop()
+
+# An GUI that logs student information into a sql .db file and presents it on demand
