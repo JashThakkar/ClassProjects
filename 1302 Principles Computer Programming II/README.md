@@ -4,10 +4,12 @@
 
 1302 Principles of Computer Programing is a course focused on python with a focus on basic algorithm, databasing, and GUI building.
 
+
+
 # 🛠️ Technologies Used
 
-  •	Python 🐍: The primary focuse of this class.
+-	Python 🐍: The primary focuse of this class.
   
-  •	Primary Focused Libraries 📚: Tkinter, Pandas, Numpy, SQLite3, Math, Time, CSV, Matplotlib
+-	Primary Focused Libraries 📚: Tkinter, Pandas, Numpy, SQLite3, Math, Time, CSV, Matplotlib
 
-  • Other Tech 🤖: VScode, Pycharms, Github
+- Other Tech 🤖: VScode, Pycharms, Github
