@@ -1,2 +1,2 @@
 # ClassProjects
-This repository contains notable and interesting projects that I did in classes throughout collage, and will continue to grow as I do more coursework.
+This repository contains fun programs and projects that I made for my classes thought collage, and other coursework.
