@@ -107,3 +107,5 @@ while option != '6':
         
     print()
     option = chooseOption()
+
+# A terminal text handling program that can create, edit, read, search within, and export to .csv
