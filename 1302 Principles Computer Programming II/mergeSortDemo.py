@@ -69,3 +69,5 @@ while on:
 merge_sort(nums, 0, len(nums) - 1)
 for num in nums:
     print(num, end=' ')
+
+# takes the inpute of numbers and will sort them in least to greatest order using the merge sort alg
