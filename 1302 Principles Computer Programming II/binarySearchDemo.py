@@ -35,4 +35,4 @@ while target != 'exit':
     binary_search(words, target)
     target = input('Enter search key: ').lower()
 
-
+# Takes an inpute of a .txt file, and a target word, and then it outputs where the word is and how manytimes it occurs in the file
