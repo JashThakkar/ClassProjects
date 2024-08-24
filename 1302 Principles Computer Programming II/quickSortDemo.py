@@ -41,6 +41,7 @@ while on:
         arr.append(int(num))
         print(arr)
 
+# Takes an inpute of numbers and sorts it from least to greatest using the quick sort alg
 
 quick_sort(arr, 0, len(arr)-1)
 print('The final sorted array', arr)
