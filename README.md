@@ -1,4 +1,4 @@
-# Repository: Class Projects Portfolio 💻🎞️
+# Repository: Course Work / Class Projects Portfolio 💻🎞️
 Welcome to my Class Projects Portfolio! This repository is a collection of projects, assignments, and code from various classes I’ve taken. It serves as a comprehensive archive of my academic journey, showcasing my growth and learning over time.
 
 📚 Overview
