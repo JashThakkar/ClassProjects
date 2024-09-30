@@ -1,4 +1,6 @@
+# A implimentation of the binary search algorithem
 # You need a .txt file with words in it to have this program work
+
 file = open(input('file name: '), 'r')
 words = file.read().splitlines()
 print('Number of words read:', len(words))
