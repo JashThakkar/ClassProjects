@@ -1,3 +1,5 @@
+# Quick Sort Algorithm example
+
 def quick_sort(arr, start, end):
     if start >= end:
         return
@@ -25,7 +27,7 @@ def partition(arr, low, high):
     return i
 
 
-# arr = [11, 12, 1, 9, 6, 5, 4, 7]
+# test array = [11, 12, 1, 9, 6, 5, 4, 7]
 
 arr = []
 on = True
