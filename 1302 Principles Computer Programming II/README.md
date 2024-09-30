@@ -4,7 +4,9 @@
 Course Overview 📘
 
 - 1302 Principles of Computer Programing is a course focused on python with a focus on basic algorithm, file managment and alteration databasing, data structuring, GUI building, data interpretation, data visualization, and more.
-- The repository is broken into Homeworks (longer / larger scale programs), Labs (shorter / smaller scale programs), and Notables (homework and lab projects that I found cool / impressive.
+- Homeworks 📝: Longer / larger scale programs
+- Labs 🧪: Shorter / smaller scale programs
+- Notables 🎁: homework and lab projects that I found cool / impressive.
 
 
 
