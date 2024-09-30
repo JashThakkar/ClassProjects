@@ -1,3 +1,5 @@
+# GUI builder that logs and presents student information using technologies like tkiner, csv, and sql, and uses comments to make long and deep code more readable and recreatable
+
 from tkinter import Tk, Entry, Text, END, font, Label, Button, BOTH
 import sqlite3
 from tkinter.messagebox import showinfo
