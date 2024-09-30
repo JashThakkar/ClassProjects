@@ -1,3 +1,5 @@
+# Leap Year Calculator: Takes an inpute of a year, and outputes if it will be a leap year or not
+
 year = input('Year: ')
 digits = False
 
@@ -24,5 +26,3 @@ else:
       
     elif remainder != 0:
         print(year + " - not a leap year")
-
-# Takes an inpute of a year, and outputes if it will be a leap year or not
