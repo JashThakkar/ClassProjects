@@ -1,3 +1,5 @@
+# A .txt file analizer and data presenter
+
 file = input('file input: ')
 num_words = 0
 line_count = 0
