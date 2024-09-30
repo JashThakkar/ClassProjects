@@ -1,4 +1,4 @@
-# Basic Class / OOP creation and class function implimintation
+# Basic Class / OOP creation and class function implimintation, using given test code (definded below)
 
 class BankAccount:
     def __init__(self, new_name, checking_balance, savings_balance):
