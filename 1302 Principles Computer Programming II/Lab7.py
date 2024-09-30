@@ -1,3 +1,5 @@
+# Merge Sort Algorithm example / demo
+
 def merge_sort(arr, left, right):
     if left < right:
 
