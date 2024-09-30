@@ -1,3 +1,5 @@
+# This program recognizes and tells you what the key you pressed is. It is done in a TKINTER GUI
+
 from tkinter import Tk, Entry, Text, END
 
 
